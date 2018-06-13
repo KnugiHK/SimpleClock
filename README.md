@@ -2,6 +2,14 @@
 
 A Very Simple Clock
 
+# Feature
+
+1. Human-readable time
+   - For everyone
+  
+2. Unix Timestamp
+   - For Programmer, IT manager, Web designer etc.
+  
 # Checksum
 MD5:ec84ae281b59c65f26e855bf7ada6662<br />
 SHA-1:f625de2c859e6e6a0262d541695bf585957d67c6<br />
