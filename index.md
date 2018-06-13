@@ -9,6 +9,15 @@ A Very Simple Clock
   
 2. Unix Timestamp
    - For Programmer, IT manager, Web designer etc.
+   
+# Download
+   
+For source code please visit GitHub repo.
+
+For binary file please select download source below.
+   
+## Source
+* [GitHub](https://github.com/knugi0123/SimpleClock/releases/download/Beta_1/SimpleClock.exe)
   
 # Checksum
 MD5:ec84ae281b59c65f26e855bf7ada6662<br />
