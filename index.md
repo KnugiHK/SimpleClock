@@ -19,6 +19,7 @@ For binary file please select download source below.
 In addition don't forget to verify the checksum after downloading binary file!
    
 ## Source
+* [MPFS Archive](https://archive.mpfstudio.site/binary/SimpleClock.exe)
 * [GitHub](https://github.com/knugi0123/SimpleClock/releases/download/Beta_1/SimpleClock.exe)
 
   
