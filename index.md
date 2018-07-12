@@ -1,4 +1,4 @@
-# SimpleClock
+# About
 
 A Very Simple Clock
 
