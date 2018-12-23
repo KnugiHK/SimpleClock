@@ -19,7 +19,7 @@ For binary file please select download mirror below.
 In addition don't forget to verify the checksum after downloading binary file!
    
 ## Mirror
-* [MPFS Archive](https://archive.mpfstudio.site/binary/SimpleClock.exe)
+* [MPFS Archive](https://mpfstudio.cf/binary/SimpleClock.exe)
 * [GitHub](https://github.com/knugi0123/SimpleClock/releases/download/Beta_1/SimpleClock.exe)
 
   
