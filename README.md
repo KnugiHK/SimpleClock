@@ -2,6 +2,8 @@
 
 A Very Simple Clock
 
+This is part of Power Tools.
+
 # Feature
 
 1. Human-readable time
